@@ -1,20 +1,61 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# AI Project Report Generator 🚀
 
-# Run and deploy your AI Studio app
+An AI-powered web application that automatically generates structured project reports from user-provided details. The application helps students and professionals create well-organized reports quickly by using AI assistance.
 
-This contains everything you need to run your app locally.
+## 🌐 Live Demo
 
-View your app in AI Studio: https://ai.studio/apps/1c5b7c16-c3db-43a2-99e6-6df3657adfaf
+Render Deployment:
+<PASTE_YOUR_RENDER_LINK_HERE>
 
-## Run Locally
+Google AI Studio Demo:
+https://projectreportgenerator.ai.studio
 
-**Prerequisites:**  Node.js
+## 💻 Source Code
 
+GitHub Repository:
+https://github.com/Geethanjali-putluri/ProjectReportGenerator
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 📌 Project Overview
+
+Creating project reports manually requires a lot of time and effort in organizing content, formatting sections, and maintaining proper structure. 
+
+The AI Project Report Generator solves this problem by generating complete project reports automatically based on the information provided by the user.
+
+The system helps users create reports with proper sections such as:
+- Project title
+- Introduction
+- Problem statement
+- Objectives
+- Methodology
+- Technologies used
+- Implementation details
+- Expected outcomes
+- Conclusion
+
+## ✨ Features
+
+- 🤖 AI-powered report generation
+- 📝 Automatic report structure creation
+- 📚 Subject-based project report generation
+- 📊 Organized and formatted report output
+- ⚡ Fast content generation
+- 🌐 Responsive web interface
+- 🎨 Modern user interface
+
+## 🛠️ Technologies Used
+
+### Frontend
+- React.js
+- TypeScript
+- Vite
+- Tailwind CSS
+
+### AI Integration
+- Google Gemini API
+- Google AI Studio
+
+### Tools
+- Git & GitHub
+- Render Deployment
+
+## 📂 Project Structure
