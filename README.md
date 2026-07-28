@@ -4,8 +4,8 @@ An AI-powered web application that automatically generates structured project re
 
 ## 🌐 Live Demo
 
-Render Deployment:
-<PASTE_YOUR_RENDER_LINK_HERE>
+Render Deployment: https://projectreportgenerator.onrender.com
+
 
 Google AI Studio Demo:
 https://projectreportgenerator.ai.studio
