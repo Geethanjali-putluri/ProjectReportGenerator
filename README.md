@@ -7,9 +7,6 @@ An AI-powered web application that automatically generates structured project re
 Render Deployment: https://projectreportgenerator.onrender.com
 
 
-Google AI Studio Demo:
-https://projectreportgenerator.ai.studio
-
 ## 💻 Source Code
 
 GitHub Repository:
@@ -57,5 +54,3 @@ The system helps users create reports with proper sections such as:
 ### Tools
 - Git & GitHub
 - Render Deployment
-
-## 📂 Project Structure
